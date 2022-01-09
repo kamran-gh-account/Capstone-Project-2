@@ -18,4 +18,4 @@ Providing related content out of relevant and irrelevant collection of items to 
 - Data exploration and visualization: explore data to understand the features and the relationship between the features and predictors.
 - Data cleaning & Preprocessing: eventually the dataset contains unnecessary information that needs to be removed.
 - Data analysis and modeling: create the model using the insights gained during exploration. Also test and validate the model.
-- Communicate: create the report and publish the results
+- Communicate: create the report and publish the results.
